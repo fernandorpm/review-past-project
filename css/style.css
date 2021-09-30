@@ -1,0 +1,52 @@
+#main {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eee;
+    color: #3b3b3b;
+}
+
+#img-div {
+    background-color: white;
+    width: 98%;
+    margin: 0 auto;
+}
+
+#title {
+    padding-top: 40px;
+}
+
+#image {
+    margin: 0 auto;
+}
+
+#img-caption {
+    margin: 20px;
+    color: red;
+}
+
+#img-caption, #image {
+    display: block;
+}
+
+.page-space {
+    height: 15px;
+}
+
+#timeline-title {
+    padding: 30px;
+}
+
+#timeline-content {
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 160%;
+}
+
+#timeline-content li {
+    margin-bottom: 15px;
+}
+
+.quotation {
+    padding-left: 22px;
+}
